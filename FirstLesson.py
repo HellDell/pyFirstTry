@@ -1,3 +1,9 @@
-print("Hello, World")
-name = input("Wat's your name?")
-print("Hello, " + name)
+# This is a sample Python script.
+
+# Press Shift+F10 to execute it or replace it with your code.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+print('Hello, World')
+
+name = input('What is your name? ')
+print('Hello, ' + name)
