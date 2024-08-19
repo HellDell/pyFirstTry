@@ -25,5 +25,6 @@ if number.isdigit() and len(number) == 5:
     # printing the result in reverse order
     print(reversed_number)
 
+# writing an excuse in case of failure
 else:
     print("My teacher said: \n \"If the user has entered a wrong number, it's the user's problem, but not the program's.\"")
