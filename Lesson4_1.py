@@ -17,7 +17,7 @@ non_zero = 0            # indicates the first element that is not 0
 i  = 0                  # used to iterate over all elements
 
 while i < len(lst):     # this loop repeats until we have checked all the items in the list
-    if lst[i] != 0:     # if the element at index i is not 0 than:
+    if lst[i] != 0:     # if the element at index i is not 0 then:
         lst[non_zero], lst[i] = lst[i], lst[non_zero] # swap elements at indexes non_zero and i
         non_zero += 1   # increase non_zero by 1
     i += 1              # move to the next element in the list
