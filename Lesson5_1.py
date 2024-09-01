@@ -31,7 +31,7 @@ for test_var in test_data:
                     is_valid = False
                 else:
                     is_valid = True
-        # checks if it's NOT a reserved keyword
+        # checks if it's a reserved keyword
         if keyword.iskeyword(test_var):
             is_valid = False
     print(is_valid)
