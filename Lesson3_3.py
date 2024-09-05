@@ -10,12 +10,14 @@ lst = [1, 2, 3]
 mid = len(lst) // 2
 
 # here goes if, else solution
-if len(lst) % 2 == 0: # if the remainder is 0, then the list is even
-    first_half = lst[:mid] # take elements from the beginning of the list to the mid index
-    second_half = lst[mid:] # take elements from mid to the end of the list
-else: # if the list is odd
-    first_half = lst[:mid+1] # takes an extra element for the first part
-    second_half = lst[mid+1:] # the rest goes to the second part
+# if the list is even
+if len(lst) % 2 == 0:
+    first_half = lst[:mid]       # take elements from the beginning of the list to the mid index
+    second_half = lst[mid:]      # take elements from mid to the end of the list
+# if the list is odd
+else: 
+    first_half = lst[:mid+1]     # takes an extra element for the first part
+    second_half = lst[mid+1:]    # the rest goes to the second part
 
 # resulting list with two sub-lists
 result = [first_half, second_half]
