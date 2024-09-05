@@ -1,4 +1,6 @@
-# creating your "awesome" list
+# the program splits one list into two and places them in a new list
+
+# creating your "awesome" test list
 # lst = [1, 2, 3, 4, 5, 6]
 lst = [1, 2, 3]
 # lst = [2]
