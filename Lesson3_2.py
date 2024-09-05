@@ -1,4 +1,6 @@
-# creating your "awesome" list
+# a program that flips the last element of the list from the end to the beginning
+
+# creating your "awesome" test list
 # lst = [1, 2, 3, 4, 5, 6]
 # lst = [12, 3, 4, 10]
 # lst = [1]

@@ -1,4 +1,4 @@
-# creating a simple calculator w/ such operands as (+, -, *, /)
+# a simple calculator w/ such operands as (+, -, *, /)
 
 # getting nums and operand first
 num1 = float(input("Give me a number: "))

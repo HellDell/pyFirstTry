@@ -1,4 +1,4 @@
-
+# a program that flips a 5-digit number
 
 number = input("Give me 5-digits number and I'll print it in reverse order: ")
 if number.isdigit() and len(number) == 5:
