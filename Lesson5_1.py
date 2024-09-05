@@ -6,10 +6,11 @@ import keyword
 test_data = ["_", "__", "___", "x", "get_value", "get value", "get!value", "some_super_puper_value",
              "Get_value", "get_Value", "getValue", "3m", "m3", "assert", "assert_exception"]
 
+# gets an input from a user:
+# test_var = input("Enter a variable name: ")
+
 # iterates through the test list
 for test_var in test_data:
-    # gets an input from a user:
-    # test_var = input("Enter a variable name: ")
 
     # checks if the variable name is not empty
     if not test_var:
