@@ -2,7 +2,7 @@
 import string
 
 # getting an input from user
-user_input = input("Enter two characters: ")
+user_input = input("Enter two characters: ").strip()
 
 # splits user's input into two sub-strings
 start, end = user_input.split('-')
