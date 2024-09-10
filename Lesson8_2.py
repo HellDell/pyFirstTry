@@ -1,3 +1,5 @@
+# a function that searches for a palindrome in the list
+
 def is_palindrome(text):
 
     # a generator that lowers all char and filters only letters and digits
@@ -5,8 +7,6 @@ def is_palindrome(text):
 
     # compares the cleaned text with its inverted version
     return clean_text == clean_text[::-1]
-
-
 
 assert is_palindrome('A man, a plan, a canal: Panama') == True, 'Test1'
 assert is_palindrome('0P') == False, 'Test2'
