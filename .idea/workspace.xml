@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b665d99b-308f-4a42-995a-a7a2f926ba3c" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/Lesson3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,9 @@
     &quot;accountId&quot;: &quot;33514773-1474-4b2d-9bf9-4af8c5c08afd&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -44,23 +51,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.FirstLesson.executor": "Run",
-    "Python.Lesson2_1.executor": "Run",
-    "Python.Lesson2_2.executor": "Run",
-    "Python.Lesson3.executor": "Run",
-    "Python.Lesson3_1.executor": "Run",
-    "Python.Lesson3_2.executor": "Run",
-    "Python.Lesson3_3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.FirstLesson.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson7_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lesson7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson7_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson8_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson8_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson9_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Lesson3_1">
-    <configuration name="Lesson2_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.Lesson10_1">
+    <configuration name="Lesson10_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyFirstTry" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson2_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson10_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson8_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyFirstTry" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson8_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson9_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyFirstTry" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson3_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson9_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson3_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson9_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyFirstTry" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson3_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson9_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson3_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyFirstTry" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,7 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson3_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,18 +198,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lesson3_1" />
-        <item itemvalue="Python.Lesson3_2" />
-        <item itemvalue="Python.Lesson3_3" />
-        <item itemvalue="Python.Lesson3" />
-        <item itemvalue="Python.Lesson2_2" />
+        <item itemvalue="Python.Lesson10_1" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.Lesson9_2" />
+        <item itemvalue="Python.Lesson9_1" />
+        <item itemvalue="Python.Lesson8_3" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -268,7 +294,191 @@
       <option name="project" value="LOCAL" />
       <updated>1724411543842</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1724415218813</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724415218813</updated>
+    </task>
+    <task id="LOCAL-00011" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1724768113438</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724768113438</updated>
+    </task>
+    <task id="LOCAL-00012" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1724768234994</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724768234994</updated>
+    </task>
+    <task id="LOCAL-00013" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1724773158687</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724773158687</updated>
+    </task>
+    <task id="LOCAL-00014" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1724775138055</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724775138055</updated>
+    </task>
+    <task id="LOCAL-00015" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725022431453</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725022431453</updated>
+    </task>
+    <task id="LOCAL-00016" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725023649094</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725023649095</updated>
+    </task>
+    <task id="LOCAL-00017" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725189593924</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725189593924</updated>
+    </task>
+    <task id="LOCAL-00018" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725189665240</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725189665240</updated>
+    </task>
+    <task id="LOCAL-00019" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725189813762</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725189813762</updated>
+    </task>
+    <task id="LOCAL-00020" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725285576965</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725285576965</updated>
+    </task>
+    <task id="LOCAL-00021" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725354789715</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725354789715</updated>
+    </task>
+    <task id="LOCAL-00022" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725356748603</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725356748603</updated>
+    </task>
+    <task id="LOCAL-00023" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725535162189</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725535162189</updated>
+    </task>
+    <task id="LOCAL-00024" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725536816246</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725536816246</updated>
+    </task>
+    <task id="LOCAL-00025" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725548736626</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725548736626</updated>
+    </task>
+    <task id="LOCAL-00026" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725884220601</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725884220601</updated>
+    </task>
+    <task id="LOCAL-00027" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725961286435</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725961286435</updated>
+    </task>
+    <task id="LOCAL-00028" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725962705914</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725962705914</updated>
+    </task>
+    <task id="LOCAL-00029" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1725967106094</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1725967106094</updated>
+    </task>
+    <task id="LOCAL-00030" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1726134005333</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726134005333</updated>
+    </task>
+    <task id="LOCAL-00031" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1726134818796</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726134818796</updated>
+    </task>
+    <task id="LOCAL-00032" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1726136547518</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726136547518</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,5 +501,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lesson5_3.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lesson7_3.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lesson7_3.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
