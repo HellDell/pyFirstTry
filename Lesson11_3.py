@@ -1,3 +1,4 @@
+# let's create a func that checks nums for evenness
 def is_even(number):
     return (number & 1) == 0
 
