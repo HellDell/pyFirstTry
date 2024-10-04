@@ -1,4 +1,4 @@
-# let's create a user exception with previous solution
+# let's create a user exception error using previous solution
 
 class GroupLimitError(Exception):
 
