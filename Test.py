@@ -1,18 +1,12 @@
-# a func that calculates the rectangle area
-#v1
-def area_of_rectangle(a, b):
-  area = a * b
-  print("The area of a rectangle with sides", a, "and", b, "is equal to:", area)
+s = input("Write any text in snake_case: ")
 
-length = 5
-width = 3
-area_of_rectangle(length, width)
+# splitting the text here
+words = s.split('_')
 
-# simple version goes here
-# v2
+# making all letters capital
+camel_case_words = [word.capitalize() for word in words]
 
-a = 5
-b = 10
-area_of_rectangle = a * b
+# combining 2 pieces here
+camel_case_str = ''.join(camel_case_words)
 
-print(area_of_rectangle)
+print("Result:", camel_case_str)
